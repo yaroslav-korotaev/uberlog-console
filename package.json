@@ -1,0 +1,22 @@
+{
+  "name": "uberlog-console",
+  "version": "1.0.0",
+  "bugs": "https://github.com/yaroslav-korotaev/uberlog-console/issues",
+  "license": "MIT",
+  "author": "Yaroslav Korotaev <yaroslav.korotaev@gmail.com>",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "repository": "yaroslav-korotaev/uberlog-console",
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inspectify": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "typescript": "^5.4.5"
+  }
+}
